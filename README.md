@@ -1,0 +1,4 @@
+- 👋 Hi, I’m a master's student at BFU.
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning semantic communication and RISC-V.
+- ⚡ Fun fact: I love playing basketball and watching the NBA!
