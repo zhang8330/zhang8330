@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m a master's student in BFU.
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning semantic communication and RISC-V.
+- 🌱 I’m currently learning Multi-Agent.
 - ⚡ Fun fact: I love playing basketball and watching the NBA!
 - 🏀 My favorite player is Paul George!
 
